@@ -7,7 +7,7 @@ Description: Allows you to explore which R libraries you have and the number of 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/suarezalvarez/libminer
+URL: https://github.com/suarezalvarez/libminer, https://suarezalvarez.github.io/libminer/
 BugReports: https://github.com/suarezalvarez/libminer/issues
 Config/roxygen2/version: 8.1.0
 Suggests: 
