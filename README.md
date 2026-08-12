@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/suarezalvarez/libminer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/suarezalvarez/libminer/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of libminer is to …
@@ -28,14 +29,14 @@ library(libminer)
 ## basic example code
 lib_summary()
 #>                                                                                         Library
-#> 1 /private/var/folders/bb/0fwfd_8s1t57knpddzjphwb9dc1vjs/T/RtmpHsxUr7/temp_libpath154c337e10257
+#> 1 /private/var/folders/bb/0fwfd_8s1t57knpddzjphwb9dc1vjs/T/RtmpHsxUr7/temp_libpath154c328008b5e
 #> 2                                             /Users/marsua/miniforge3/envs/raukr/lib/R/library
 #>   n_packages
 #> 1          1
 #> 2        338
 lib_summary(sizes = TRUE)
 #>                                                                                         Library
-#> 1 /private/var/folders/bb/0fwfd_8s1t57knpddzjphwb9dc1vjs/T/RtmpHsxUr7/temp_libpath154c337e10257
+#> 1 /private/var/folders/bb/0fwfd_8s1t57knpddzjphwb9dc1vjs/T/RtmpHsxUr7/temp_libpath154c328008b5e
 #> 2                                             /Users/marsua/miniforge3/envs/raukr/lib/R/library
 #>   n_packages lib_size
 #> 1          1   37.09K
